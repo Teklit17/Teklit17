@@ -1,26 +1,19 @@
 <!-- 🌌 Header Section -->
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
   <img 
     src="./banner.jpg" 
     alt="GitHub Banner" 
-    width="85%" 
-    style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
-  >
-</p>
-
-<!-- 👤 Avatar -->
-<p align="center" style="margin-top: -60px;">
-  <img 
-    src="./default.png" 
-    alt="Profile Avatar" 
-    width="160" 
+    width="100%" 
     style="
-      border-radius: 50%; 
-      border: 4px solid white; 
-      box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+      height: 20vh; 
+      object-fit: cover; 
+      border-radius: 0 0 20px 20px; 
+      box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+      display: block;
     "
   >
 </p>
+
 
 <!-- 💬 Introduction -->
 <h1 align="center">👋 Hi, I'm Teklit</h1>
