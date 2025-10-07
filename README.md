@@ -3,13 +3,22 @@
   <img 
     src="./banner.jpg" 
     alt="GitHub Banner" 
-    width="100%" 
+    width="95%" 
     style="
-      height: 20vh; 
+      height: 22vh; 
       object-fit: cover; 
-      border-radius: 0 0 20px 20px; 
-      box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+      border-radius: 40px; 
       display: block;
+      margin: 20px auto;
+      box-shadow:
+        0 0 25px rgba(0, 255, 255, 0.25),
+        0 0 50px rgba(100, 100, 255, 0.15),
+        0 10px 25px rgba(0,0,0,0.4);
+      border: 3px solid transparent;
+      background-image: linear-gradient(#111, #111),
+        linear-gradient(135deg, rgba(0,255,255,0.6), rgba(150,100,255,0.6));
+      background-origin: border-box;
+      background-clip: content-box, border-box;
     "
   >
 </p>
