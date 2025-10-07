@@ -1,5 +1,8 @@
 
-<img src="./banner.jpg" alt="GitHub Banner" width="100%" />
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 
 
 # 👋 Hi, I'm Teklit
