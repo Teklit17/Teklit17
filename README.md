@@ -1,3 +1,7 @@
+
+<img src="./banner.png" alt="GitHub Banner" width="100%" />
+
+
 # 👋 Hi, I'm Teklit
 
 💡 Passionate **Full-Stack Developer** focused on building creative, human-centered, and scalable digital products.  
