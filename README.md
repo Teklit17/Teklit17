@@ -1,21 +1,41 @@
-
+<!-- 🌌 Header Section -->
 <p align="center">
-  <img src="./banner.jpg" alt="GitHub Banner" width="100%">
+  <img 
+    src="./banner.jpg" 
+    alt="GitHub Banner" 
+    width="85%" 
+    style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
+  >
 </p>
 
+<!-- 👤 Avatar -->
+<p align="center" style="margin-top: -60px;">
+  <img 
+    src="./default.png" 
+    alt="Profile Avatar" 
+    width="160" 
+    style="
+      border-radius: 50%; 
+      border: 4px solid white; 
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+    "
+  >
+</p>
 
+<!-- 💬 Introduction -->
+<h1 align="center">👋 Hi, I'm Teklit</h1>
 
-# 👋 Hi, I'm Teklit
-
-💡 Passionate **Full-Stack Developer** focused on building creative, human-centered, and scalable digital products.  
-🎓 Completed a **Bachelor’s in Software Engineering**, currently pursuing a **Master’s in Artificial Intelligence**.  
-🚀 Currently developing **Zantay**, a personalized storytelling app for children built with **React**, **Supabase**, and **TailwindCSS**.  
+<p align="center">
+  💡 Passionate <b>Full-Stack Developer</b> focused on building creative, human-centered, and scalable digital products.  
+  🎓 Completed a <b>Bachelor’s in Software Engineering</b>, currently pursuing a <b>Master’s in Artificial Intelligence</b>.  
+  🚀 Currently developing <b>Zantay</b> — a personalized storytelling app for children built with <b>React</b>, <b>Supabase</b>, and <b>TailwindCSS</b>.
+</p>
 
 ---
 
 ## 🧠 About Me
 - 🎯 Strong passion for **AI**, **UI/UX design**, and **intelligent systems**  
-- 💬 Fluent in **English**, **Norwegian**, **and many more**  
+- 💬 Fluent in **English**, **Norwegian**, and **many more**  
 - 🌍 Advocate for accessible, multilingual technology that connects people  
 - 🧩 Love blending creativity with logic to build purposeful digital experiences  
 
